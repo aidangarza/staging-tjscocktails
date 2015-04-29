@@ -1,0 +1,3326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Recipe\n"
+"POT-Creation-Date: 2015-04-27 06:22+0100\n"
+"PO-Revision-Date: 2015-04-27 06:22+0100\n"
+"Last-Translator: \n"
+"Language-Team: DJMiMi <milutinjaric@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: c:\\wamp\\www\\recipe\\wp-content\\themes\\recipe\n"
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/404.php:9
+msgid "Page not found"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/404.php:12
+msgid ""
+"Page you are looking for is no longer available. Use search form bellow to find what you "
+"are looking for"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:21
+msgid "Cooking Level:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:31
+msgid "Recipes:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:39
+msgid "Favourite Recipes:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:49
+msgid "User Ratings:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:64
+msgid "About Author"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:67
+msgid "Author Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:70
+msgid "Favourite Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:88
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:572
+msgid "recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:90
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:162
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:19
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:14
+msgid "Loading..."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:96
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:168
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:25
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:20
+msgid "Image"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:99
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:171
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:28
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:23
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-cat-icon.php:73
+msgid "Name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:102
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:174
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:34
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:29
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:523
+msgid "Ratings"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:105
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:177
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:697
+msgid "Difficulty"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/author.php:160
+msgid "favourited recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:23
+msgid "No Comments"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:23
+msgid "1 Comment"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:23
+msgid "% Comments"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:55
+msgid "Comment page: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:77
+msgid "Leave Comment"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:85
+msgid "Add Review"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:104
+msgid "Send Comment"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:108
+msgid "Your Name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:112
+msgid "Your Email"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:118
+msgid "Your Comment"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:121
+msgid "or cancel reply"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/comments.php:122
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and "
+"attributes: %s"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:89
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:226
+msgid "Install Required Plugins"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:90
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:227
+msgid "Install Plugins"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:91
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:228
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:92
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:103
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:240
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:104
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:242
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2189
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:105
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:125
+msgid "Blog Sidebar"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:131
+msgid "Appears on the right side of the blog single page."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:135
+msgid "Recipe Sidebar"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:141
+msgid "Appears on the right side of the recipe single pages."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:145
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:151
+msgid "Appears on the left side of the page."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:155
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:161
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:171
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:181
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:191
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:202
+msgid "Appears on the right side of the page."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:165
+msgid "Bottom Sidebar 1"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:175
+msgid "Bottom Sidebar 2"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:185
+msgid "Bottom Sidebar 3"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:196
+msgid "Bottom Sidebar 4"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:211
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:175
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:413
+msgid "Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:212
+msgid "Recipe"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:230
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:84
+msgid "Categories"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:231
+msgid "Category"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:236
+msgid "Tags"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:237
+msgid "Tag"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:242
+msgid "Cuisines"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:243
+msgid "Cuisine"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:257
+msgid "All "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:258
+msgid "Edit "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:259
+msgid "View "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:260
+msgid "Update "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:261
+msgid "Add New "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:262
+msgid "New "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:262
+msgid " Name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:263
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:264
+msgid "Parent "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:264
+msgid ":"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:265
+msgid "Search "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:266
+msgid "Popular "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:267
+msgid "Separate "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:267
+msgid " with commas"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:268
+msgid "Add or remove "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:269
+msgid "Choose from the most used "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:270
+msgid "No "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:270
+msgid " found"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:387
+msgid "Top Navigation"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:533
+msgid "Input url to be embeded"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:539
+msgid "Standard Post Information"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:547
+msgid "Add images for the gallery"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:554
+msgid "Gallery Post Information"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:563
+msgid "Input URL for the audio"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:569
+msgid "Select type of the audio"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:572
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:596
+msgid "Embed"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:573
+msgid "Direct Link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:579
+msgid "Audio Post Information"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:587
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:643
+msgid "Input video URL"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:592
+msgid "Select video type"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:595
+msgid "Self Hosted"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:602
+msgid "Video Post Information"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:610
+msgid "Input the quotation"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:615
+msgid "Input the quoted person's name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:621
+msgid "Quote Post Information"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:629
+msgid "Input link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:635
+msgid "Link Post Information"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:648
+msgid "Add images"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:654
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:134
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-box-alt.php:57
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-box.php:43
+msgid "Yield"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:659
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:144
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-box-alt.php:67
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-box.php:53
+msgid "Servings"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:664
+msgid "Prep Time"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:669
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:154
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-box-alt.php:77
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-box.php:63
+msgid "Cook Time"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:674
+msgid "Ready In"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:679
+msgid "Ingredient"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:680
+msgid ""
+"Input ingredients one per line. To add a title use # tags for exmple ( #For Pudding# )"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:685
+msgid "Nutritions"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:686
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:149
+msgid ""
+"Input nutritions one per line where title and value are separated with : "
+"( Calories:3400ckal )"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:691
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:174
+msgid "Steps"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:692
+msgid "Input steps and separate them with the duoble dash -- ."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:700
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2381
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:162
+msgid "Easy"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:701
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2382
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:163
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:143
+msgid "Medium"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:702
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2383
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:164
+msgid "Advanced"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:708
+msgid "Recipe Details"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:716
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:735
+msgid "Review Score"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:728
+msgid "Review For"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1165
+msgid "All fields are required."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1170
+msgid "E-mail address is not valid."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1176
+msgid "Name: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1177
+msgid "Email: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1178
+msgid "Message: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1184
+msgid "Your message was successfully submitted."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1189
+msgid "Unexpected error while attempting to send e-mail."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1217
+msgid "There was an error contacting the API, please try again."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1223
+msgid "You have successuffly subscribed to the newsletter."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1228
+msgid "API data are not yet set."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1232
+msgid "Email is empty or invalid."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1284
+msgid "@"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1300
+msgid "Reply"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1318
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1342
+msgid "This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1343
+msgid "Password:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1357
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:37
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:32
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:527
+msgid "Views"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1358
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:470
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:526
+msgid "Likes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1510
+msgid "You have already liked this post"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1659
+msgid "Average Rate: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1748
+msgid ""
+"You have registered. Email with the confirmation link is sent on the email address you "
+"have provided."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1751
+msgid "There was an error trying to send confirmation link to you"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1756
+msgid "There was an error trying to register you"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1760
+msgid "Email is already registered"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1764
+msgid "Username is already taken"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1768
+msgid "Passwords do not match"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1772
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1877
+msgid "Email is invalid"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1776
+msgid "Username is empty"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1780
+msgid "Captcha is wrong."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1784
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1830
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1881
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1942
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2146
+msgid "You do not have permission for this action"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1809
+msgid "Invalid username"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1812
+msgid "Invalid password"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1815
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1826
+msgid "All fields are required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1821
+msgid "You have been logged in, now you will be redirected,"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1866
+msgid "Email with the new password and your username is sent to the provided email address"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1869
+msgid "There was an error trying to send an email"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1873
+msgid "Email is not registered"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1910
+msgid "Provided passwords do not match"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1934
+msgid "Your profile is updated."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:1938
+msgid "Email address is not valid."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2071
+msgid "Recipe has been submited and you will be informed when review is finished"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2072
+msgid "New recipe is submitted"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2073
+msgid "New recipe has been submited. To review recipe follow this link "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2076
+msgid "Your updates are sent and you will be informed about status after the review"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2077
+msgid "Recipe update is submitted"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2078
+msgid "Update to the recipe has been submited. To review recipe follow this link "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2089
+msgid "Recipe difficulty level is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2093
+msgid "Steps are required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2097
+msgid "Ingredients are required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2101
+msgid "Ready time is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2105
+msgid "Cook time is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2109
+msgid "Preparation time is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2113
+msgid "Servings is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2117
+msgid "Yield is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2122
+msgid "Cuisine is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2126
+msgid "Category is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2130
+msgid "Excerpt is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2134
+msgid "Featured image is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2138
+msgid "Description is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2142
+msgid "Title is required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2282
+msgid "Social Links"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2286
+msgid "Facebook Profile"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2291
+msgid "Twitter Profile"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2296
+msgid "Google+ Profile"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2301
+msgid "Linkedin Profile"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2306
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2310
+msgid "User Status"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2313
+msgid "Inactive"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2314
+msgid "Active"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2338
+msgid "Activation Status"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2348
+msgid "Activated"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2351
+msgid "Need Confirmation"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2386
+msgid "Difficulty: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2439
+msgid "Error: please fill the required field (review)."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/functions.php:2515
+msgid "Please log in to add to favourites"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:52
+msgid "My Account"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:56
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:76
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:213
+msgid "Submit Recipe"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:60
+msgid "Log Out"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:68
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:47
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:74
+msgid "Register"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:72
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:111
+msgid "Log In"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:121
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-box-alt.php:47
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-box.php:27
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:60
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:231
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:104
+msgid "By "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:177
+msgid "Toggle navigation"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/header.php:192
+msgid "Type term and hit enter..."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:229
+msgid "Something went wrong."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:241
+msgid "Return to the dashboard"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:243
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:244
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:245
+msgid "Dismiss this notice"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1350
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1534
+msgid "Private Repository"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1354
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1538
+msgid "Pre-Packaged"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1359
+msgid "WordPress Repository"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1362
+msgid "Required"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1362
+msgid "Recommended"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1365
+msgid "Not Installed"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1368
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1559
+#, php-format
+msgid "No plugins to install or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1575
+msgid "Plugin"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1576
+msgid "Source"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1577
+msgid "Type"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1578
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:31
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:26
+msgid "Status"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1596
+msgid "Install"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:1597
+msgid "Activate"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2172
+msgid "Install package not available."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2173
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2174
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2175
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2176
+msgid "Plugin install failed."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2177
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2188
+msgid "Plugin activation failed."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2311
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2312
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2316
+msgid ""
+"The installation and activation process is starting. This process may take a while on "
+"some hosts, so please be patient."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2317
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2317
+msgid "Show Details"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2317
+msgid "Hide Details"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2318
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2319
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2323
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, so "
+"please be patient."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2325
+msgid "All installations have been completed."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/class-tgm-plugin-activation.php:2326
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:109
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:113
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:137
+msgid "Move up"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:150
+msgid "Move down"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:152
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:154
+msgid "Edit Menu Item"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:163
+msgid "URL"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:170
+msgid "Navigation Label"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:176
+msgid "Title Attribute"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:183
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:188
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:194
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:200
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-cat-icon.php:74
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:197
+msgid "Description"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:202
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:212
+msgid "Menu Icon"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:234
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:247
+msgid "Remove"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/menu-extender.php:248
+msgid "Cancel"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/dashboard.php:30
+msgid "My dashboard"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/dashboard.php:31
+msgid "Hi "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/dashboard.php:31
+msgid ". Here is a quick overview of your stats."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/dashboard.php:38
+msgid "Published Recipes: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/dashboard.php:50
+msgid "Waiting For Update Recipes: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/dashboard.php:64
+msgid "Waiting For Approval Recipes: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/dashboard.php:76
+msgid "Favourite Recipes: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/dashboard.php:90
+msgid "Ratings: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/dashboard.php:102
+msgid "Cooking Level: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:14
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_my_account.php:41
+msgid "Edit Profile"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:15
+msgid "Edit your personal information here"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:21
+msgid "Avatar"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:23
+msgid "Change Avatar"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:28
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_forgot_password.php:22
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:55
+msgid "Email *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:36
+msgid "First Name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:42
+msgid "Last Name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:50
+msgid "Password"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:56
+msgid "Repeat Password"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:64
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:768
+msgid "Facebook Link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:70
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:775
+msgid "Twitter Link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:78
+msgid "Google+ Link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:84
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:789
+msgid "Linkedin Link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:92
+msgid "Cover Image"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:94
+msgid "Change Cover"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:101
+msgid "Something About You"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/edit-profile.php:112
+msgid "Update Profile"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:16
+msgid "My favourite recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:17
+msgid "Here you will find all your favourite recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:40
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:35
+msgid "Action"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:69
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:64
+msgid "Pending Review"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:76
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:71
+msgid "Published"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/my-favourites.php:79
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:74
+msgid "Update Review"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:58
+msgid "Submit New Recipe"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:59
+msgid ""
+"Populate fields bellow and after review yout recipe will be approved if everything checks "
+"out"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:65
+msgid "Edit Recipe: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:66
+msgid "Edit recipe details which will be approved or rejected after the review"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:73
+msgid "Title *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:78
+msgid "Description *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:83
+msgid "Featured Image *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:88
+msgid "Select Image"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:92
+msgid "Recipe Excerpt *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:97
+msgid "Video URL"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:102
+msgid "Recipe Images"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:115
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gallery.php:34
+msgid "Select Images"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:119
+msgid "Yield *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:124
+msgid "Servings *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:129
+msgid "Time To Prepare *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:134
+msgid "Time To Cook *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:139
+msgid "Ready Time *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:144
+msgid "Ingredients. To add a title wrap it in # for example #For Pudding# *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:154
+msgid "Steps ( separated with -- ) *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:159
+msgid "Recipe Difficulty *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:161
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:171
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:186
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:108
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:124
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:140
+msgid "- Select -"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:169
+msgid "Recipe Category *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:184
+msgid "Recipe Cuisine *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:199
+msgid "Tags ( comma separated )"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/new-recipe.php:216
+msgid "Update Recipe"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:11
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_my_account.php:31
+msgid "My Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/profile-pages/recipe-list.php:12
+msgid "Here you will find all your submited recipes their status and their statistics"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-cat-icon.php:11
+msgid "Icon:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-cat-icon.php:16
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-cat-icon.php:37
+msgid "Select icon for the code category"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-cat-icon.php:31
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-cat-icon.php:77
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:79
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:57
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/icon.php:49
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:105
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:111
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:74
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:395
+msgid "Icon"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-cat-icon.php:75
+msgid "Slug"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/recipe-cat-icon.php:76
+msgid "Codes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/share.php:13
+msgid "Share on Facebook"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/share.php:16
+msgid "Share on Twitter"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/share.php:19
+msgid "Share on Google+"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/share.php:22
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/share.php:24
+msgid "Share on Tumblr"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes.php:68
+msgid "Add Image"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes.php:73
+msgid "Add Images"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes.php:88
+msgid "Insert"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/accordion.php:56
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/tabs.php:43
+msgid "Titles"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/accordion.php:59
+msgid "Input accordion titles separated by /n/."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/accordion.php:65
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/tabs.php:52
+msgid "Contents"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/accordion.php:68
+msgid "Input accordion contents separated by /n/."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/accordion.php:76
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:391
+msgid "Accordion"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/accordion.php:78
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:121
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:201
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:96
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gallery.php:74
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gap.php:30
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/icon.php:51
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/iframe.php:49
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/label.php:51
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:144
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:159
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:177
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/tabs.php:65
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:48
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:73
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:113
+msgid "Content"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:31
+msgid "Close"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:43
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/label.php:20
+msgid "Text"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:46
+msgid "Input alert text."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:52
+msgid "Border Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:55
+msgid "Select border color for the alert box."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:61
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/label.php:29
+msgid "Background Color Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:64
+msgid "Select background color of the alert box."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:70
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/label.php:38
+msgid "Text Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:73
+msgid "Select font color for the alert box text."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:82
+msgid "Select icon."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:88
+msgid "Closeable"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:91
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:180
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:113
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:166
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:221
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:233
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:245
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:257
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:269
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:281
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:331
+msgid "No"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:92
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:181
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:112
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:165
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:220
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:232
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:244
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:256
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:268
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:280
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:330
+msgid "Yes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:94
+msgid "Enable or disable alert closing."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:100
+msgid "Close Icon Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:103
+msgid "Select color for the close icon."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:109
+msgid "Close Icon Color On Hover"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:112
+msgid "Select color for the close icon on hover."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/alert.php:119
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:392
+msgid "Alert"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:55
+msgid "Button Text"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:58
+msgid "Input button text."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:64
+msgid "Button Link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:67
+msgid "Input button link."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:73
+msgid "Select Window"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:76
+msgid "Same Window"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:77
+msgid "New Window"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:79
+msgid "Select window where to open the link."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:85
+msgid "Background Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:88
+msgid "Select button background color."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:94
+msgid "Background Color On Hover"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:97
+msgid "Select button background color on hover."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:103
+msgid "Button Border Radius"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:106
+msgid ""
+"Input button border radius. For example 5px or 5ox 9px 0px 0px or 50% or 50% 50% 20% 10%."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:112
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/icon.php:20
+msgid "Select Icon"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:115
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/icon.php:23
+msgid "Select an icon you want to display."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:121
+msgid "Font Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:124
+msgid "Select button font color."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:130
+msgid "Font Color On Hover"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:133
+msgid "Select button font color on hover."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:139
+msgid "Button Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:142
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:168
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:146
+msgid "Normal"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:144
+msgid "Large"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:146
+msgid "Select button size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:152
+msgid "Button Align"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:155
+msgid "Left"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:156
+msgid "Center"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:157
+msgid "Right"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:159
+msgid "Select button align."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:165
+msgid "Select Button Width"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:169
+msgid "Full Width"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:171
+msgid "Select button alwidthign."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:177
+msgid "Display Inline"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:183
+msgid "Display button inline."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:189
+msgid "Button Margins"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:192
+msgid "Add button margins."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/button.php:199
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:393
+msgid "Button"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:60
+msgid "Select icon for the category list."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:66
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:114
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:120
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:39
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:83
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:524
+msgid "Title"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:69
+msgid "Input title for the categories block."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:75
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:123
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:129
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:92
+msgid "Small Title"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:78
+msgid "Input title for the button to all categories."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:87
+msgid "Select categories to show."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/categories_list.php:94
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:608
+msgid "Recipe Categories"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/column.php:18
+msgid "Column Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/column.php:21
+msgid "Input column size. min 1 max 12. Sum of these numbers in a row must be 12."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gallery.php:37
+msgid "Select images for the gallery."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gallery.php:43
+msgid "Thumbnail Image Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gallery.php:46
+msgid "Select image size you want to display for the thumbnails."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gallery.php:52
+msgid "Columns"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gallery.php:66
+msgid "Select number of columns for the thumbnails."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gallery.php:72
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:394
+msgid "Gallery"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gap.php:18
+msgid "Gap Height"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gap.php:21
+msgid "Input gap height."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/gap.php:28
+msgid "Gap"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/icon.php:29
+msgid "Icon Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/icon.php:32
+msgid "Select color of the icon."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/icon.php:38
+msgid "Icon Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/icon.php:41
+msgid "Input size of the icon."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/iframe.php:24
+msgid "Iframe link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/iframe.php:27
+msgid "Input link you want to embed."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/iframe.php:33
+msgid "Iframe Proportion"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/iframe.php:36
+msgid "4 by 3"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/iframe.php:37
+msgid "16 by 9"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/iframe.php:39
+msgid "Select iframe proportion."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/iframe.php:47
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:396
+msgid "Iframe"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/label.php:23
+msgid "Input label text."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/label.php:32
+msgid "Select background color of the label."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/label.php:41
+msgid "Select font color for the label text."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/label.php:49
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:62
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:397
+msgid "Label"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:64
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:107
+msgid " in "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:76
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:116
+msgid "Continue reading"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:108
+msgid "Select icon for the latest blogs."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:117
+msgid "Input title for the latest blogs block."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:126
+msgid "Input title for the button to all latest blogs."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:132
+msgid "Number Of Blogs"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:135
+msgid "Input number of the latest blogs to show."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/latest_blogs.php:142
+msgid "Latest Blogs"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:65
+msgid "Input progress bar label."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:71
+msgid "Label Font Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:74
+msgid "Input label font size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:80
+msgid "Value"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:83
+msgid "Input progress bar value. Input number only unit is in percentage."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:89
+msgid "Progress Bar Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:92
+msgid "Select progress bar color."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:98
+msgid "Progress Bar Background Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:101
+msgid "Select progress bar background color."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:107
+msgid "Progress Bar Label Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:110
+msgid "Select progress bar label color."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:116
+msgid "Progress Bar Height"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:119
+msgid "Input progress bar height."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:125
+msgid "Progress Bar Label Icon"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:128
+msgid "Select icon for the label."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:134
+msgid "Progress Bar Border Radius"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:137
+msgid "Input progress bar border radius."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:143
+msgid "Progress Bar Style"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:147
+msgid "Stripes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:148
+msgid "Active Stripes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:150
+msgid "Select progress bar style."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/progressbar.php:157
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:398
+msgid "Progress Bar"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:114
+msgid "Select icon for the latest recipes."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:123
+msgid "Input title for the latest recipes block."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:132
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:95
+msgid "Input title for the small right button."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:138
+msgid "Number Of Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:141
+msgid "Input number of the latest recipes to show."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:147
+msgid "Style"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:150
+msgid "Top Media"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:151
+msgid "Side Media"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:153
+msgid "Select recipe box style."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:159
+msgid "Recipes Source"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:162
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:522
+msgid "Latest"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:163
+msgid "Top Rated"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:164
+msgid "Most Favourited"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:165
+msgid "Most Liked"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:166
+msgid "Most Viewed"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/recipes.php:168
+msgid "Select recipe source."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/tabs.php:46
+msgid "Input tab titles separated by /n/."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/tabs.php:55
+msgid "Input tab contents separated by /n/."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/tabs.php:63
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:399
+msgid "Tabs"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:42
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:51
+msgid "Input toggle title."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:57
+msgid "Default State"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:60
+msgid "Closed"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:61
+msgid "Opened"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:63
+msgid "Select default toggle state."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/toggle.php:71
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:400
+msgid "Toggle"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:77
+msgid "Select icon for the top users."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:86
+msgid "Input title for the top users block."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:101
+msgid "Number Of Users"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:104
+msgid "Input number of the top users to show."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/shortcodes/top_users.php:111
+msgid "Top Rated Users"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:103
+msgid "Overall"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:105
+msgid "This is basic section where you can set up main settings for your website."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:115
+msgid "Show Top Bar"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:116
+msgid "Enable or hide top bar"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:122
+msgid "Site Logo"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:123
+msgid "Upload site logo"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:129
+msgid "Site Favicon"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:130
+msgid ""
+"Please upload favicon here in PNG or JPG format. <small>(18px 18px maximum size "
+"recommended)</small>)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:138
+msgid "Featured Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:139
+msgid "Select recipes you wish present as featured"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:144
+msgid "Featured Slider Auto Rotate"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:145
+msgid "Input auto rotate speed in sm. Leave empty to disable"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:151
+msgid "Cooking Levels"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:152
+msgid ""
+"Input cooking levels separated by the new line. To add range for the certan level use "
+"this form( Rookie:0-10 )"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:157
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:365
+msgid "Similar Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:158
+msgid "Input number of similar recipes to show on recipe single page"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:168
+msgid "All Users See All Images?"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:169
+msgid "Enable or disable recipe images sharing."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:181
+msgid "SEO"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:183
+msgid "This is important part for search engines."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:189
+msgid "Keywords"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:190
+msgid ""
+"<br />Type here website keywords separated by comma. <small>(eg. lorem, ipsum, "
+"adiscipit)</small>."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:198
+msgid "<br />Type here website description."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:209
+msgid "Share"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:211
+msgid "Post share options."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:217
+msgid "Enable Share"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:218
+msgid "<br />Enable or disable post share."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:229
+msgid "Facebook Share"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:230
+msgid "<br />Enable or disable post share on Facebook."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:241
+msgid "Twitter Share"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:242
+msgid "<br />Enable or disable post share on Twitter."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:253
+msgid "Google+ Share"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:254
+msgid "<br />Enable or disable post share on Google+."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:265
+msgid "Linkedin Share"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:266
+msgid "<br />Enable or disable post share on Linkedin."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:277
+msgid "Tumblr Share"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:278
+msgid "<br />Enable or disable post share on Tumblr."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:294
+msgid "Subscription"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:296
+msgid "Set up subscription API key and list ID."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:302
+msgid "API Key"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:303
+msgid "Type your mail chimp api key."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:309
+msgid "List ID"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:310
+msgid "Type here ID of the list on which users will subscribe."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:321
+msgid "Messages"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:323
+msgid "Messagin settings."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:328
+msgid "Enable User Information"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:333
+msgid ""
+"Enable or disable sending information to user about accepting, declining, updating recipe."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:340
+msgid "Registration Message Subject"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:341
+msgid "Type registration message subject."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:347
+msgid "Registration Message"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:348
+msgid "Type registration message for confirming the link. Use %LINK% to place the link ."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:354
+msgid "Registration Message Name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:355
+msgid "Type name from who the registration message is sent."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:361
+msgid "Registration Message Email"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:362
+msgid "Type email address from who the registration message is sent."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:369
+msgid "Recover Password Message Subject"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:370
+msgid "Type recover password subject"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:376
+msgid "Recover Password Message"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:377
+msgid ""
+"Type registration message for confirming the link. Use %USERNAME% to place the username. "
+"use %PASSWORD% to put new password"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:383
+msgid "Recover Password Sender Name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:384
+msgid "Type name from who the recover message is sent."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:390
+msgid "Recover Password Sender Email"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:391
+msgid "Type email address from who the recover message is sent."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:398
+msgid "Review Message Subject"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:399
+msgid "Type review subject"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:405
+msgid "Approved Review message"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:406
+msgid "Type review message for the submitter. Use %LINK% to put link, %NAME% to put name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:412
+msgid "Decline message"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:413
+msgid "Type review message for the submitter. Use %NAME% to put name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:419
+msgid "Review Sender Name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:420
+msgid "Type name from who the review message is sent."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:426
+msgid "Review Sender Email"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:427
+msgid "Type email address from who the review message is sent."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:434
+msgid "Review Receive Email"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:435
+msgid "Type email address where the informations about new submit will arrivw."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:444
+msgid "Appearance"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:446
+msgid "Set up the looks."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:451
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:452
+msgid "Select color of the top bar background."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:459
+msgid "Top Bar Font Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:460
+msgid "Select font color for the top bar."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:468
+msgid "Navigation Background Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:469
+msgid "Select background color of the navigation bar."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:476
+msgid "Navigation Font Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:477
+msgid "Select font color of the navigation bar."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:484
+msgid "Navigation Font Color Hover/Active"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:485
+msgid "Select font color of the navigation bar on hover / active."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:492
+msgid "Subnavigation Background Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:493
+msgid "Select background color of the subnavigation bar."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:500
+msgid "Subnavigation Font Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:501
+msgid "Select font color of the subnavigation bar."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:508
+msgid "Subnavigation Font Color Hover/Active"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:509
+msgid "Select font color of the subnavigation bar on hover / active."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:516
+msgid "Subnavigation Border Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:517
+msgid "Select border color of the subnavigation bar."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:524
+msgid "Navigation Font"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:525
+msgid "Select navigation font."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:533
+msgid "Navigation Font Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:534
+msgid "Input navigation font size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:542
+msgid "Text Font"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:543
+msgid "Select font for the regular text."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:550
+msgid "Text Font Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:551
+msgid "Input text font size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:557
+msgid "Text Line Height"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:558
+msgid "Input text line height."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:566
+msgid "Title Font"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:567
+msgid "Select font for the title text."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:574
+msgid "Heading 1 Font Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:575
+msgid "Input heading 1 font size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:581
+msgid "Heading 1 Line Height"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:582
+msgid "Input heading 1 line height."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:588
+msgid "Heading 2 Font Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:589
+msgid "Input heading 2 font size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:595
+msgid "Heading 2 Line Height"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:596
+msgid "Input heading 2 line height."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:602
+msgid "Heading 3 Font Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:603
+msgid "Input heading 3 font size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:609
+msgid "Heading 3 Line Height"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:610
+msgid "Input heading 3 line height."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:616
+msgid "Heading 4 Font Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:617
+msgid "Input heading 4 font size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:623
+msgid "Heading 4 Line Height"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:624
+msgid "Input heading 4 line height."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:630
+msgid "Heading 5 Font Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:631
+msgid "Input heading 5 font size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:637
+msgid "Heading 5 Line Height"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:638
+msgid "Input heading 5 line height."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:644
+msgid "Heading 6 Font Size"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:645
+msgid "Input heading 6 font size."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:651
+msgid "Heading 6 Line Height"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:652
+msgid "Input heading 6 line height."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:660
+msgid "Body Background Image"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:661
+msgid "Select image for the body."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:667
+msgid "Body Background Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:668
+msgid "Select color for the body."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:677
+msgid "Main Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:678
+msgid "Select main color for the site."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:686
+msgid "Main Color Button Font"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:687
+msgid "Select button font color for the buttons with the main color."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:695
+msgid "Secondary Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:696
+msgid "Select secondary color for the site."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:704
+msgid "Secondary Color Button Font"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:705
+msgid "Select button font color for the buttons with the secondary color."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:713
+msgid "Copyrights Background Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:714
+msgid "Select background color for the copyrights section."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:721
+msgid "Copyrights Font Color"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:722
+msgid "Select font color for the copyrights section."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:735
+msgid "Contact Page"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:737
+msgid "Contact page settings."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:742
+msgid "Contact Email"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:743
+msgid "Input email where the messages should arive."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:754
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:761
+msgid "Copyrights"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:756
+msgid "Copyrights settings."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:762
+msgid "Input copyrights text."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:769
+msgid "Input link to your facebook page"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:776
+msgid "Input link to your twitter page"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:782
+msgid "Google Link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:783
+msgid "Input link to your google page"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:790
+msgid "Input link to your linkedin page"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:796
+msgid "Tumblr Link"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:797
+msgid "Input link to your tumblr page"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:824
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/theme-options.php:825
+msgid "Recipe WP"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widget-loop.php:25
+msgid "0"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widget-loop.php:25
+msgid "1"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widget-loop.php:25
+msgid "%"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:6
+msgid "Recipe Recent posts"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:6
+msgid "Display recent posts"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:16
+msgid "Posts"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:69
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:147
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:208
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:273
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:346
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:384
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:512
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:595
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:655
+msgid "Title:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:72
+msgid "Number of posts to show:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:82
+msgid "Recipe Recent Comments"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:82
+msgid "Display recent comments"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:89
+msgid "Recent Comments"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:150
+msgid "Number of comments to show:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:157
+msgid "Top Author"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:157
+msgid "Adds list of top authors."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:186
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:572
+msgid "Wrote "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:186
+msgid "posts"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:212
+msgid "Count:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:221
+msgid "Social Follow"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:221
+msgid "Adds list of the social icons."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:277
+msgid "Facebook:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:281
+msgid "Twitter:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:285
+msgid "Google +:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:289
+msgid "Linkedin:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:293
+msgid "YouTube:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:297
+msgid "Pinterest:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:301
+msgid "Flickr:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:305
+msgid "Behance:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:314
+msgid "Subscribe"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:314
+msgid "Adds subscribe form in the sidebar."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:328
+msgid "Input email here..."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:355
+msgid "Recipe Shortcode Text"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:355
+msgid "Text widget which can render shortcode."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:388
+msgid "Shortcode:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:390
+msgid "-Select-"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:404
+msgid "Text:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:413
+msgid "Add recipes to the widget."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:451
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:458
+msgid "Create date"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:464
+msgid "Favourites"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:476
+msgid "Viewes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:516
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:599
+msgid "Number:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:520
+msgid "Order By:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:525
+msgid "Favourited"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:536
+msgid "Top Users"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:536
+msgid "Display Top Users."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:608
+msgid "Display Recipe Categories."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/includes/widgets.php:659
+msgid "Categories:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:35
+msgid "Category: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:39
+msgid "Search by tag: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:42
+msgid "Posts written by "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:45
+msgid "Archive for "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:48
+msgid "Search results for: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:103
+msgid " By "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:135
+msgid "Nothing Found"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/index.php:138
+msgid "Sorry but we could not find anything which resembles you search criteria. Try again."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/media/media-video.php:17
+msgid "Your browser does not support the video tag."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_contact.php:20
+msgid "Your name"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_contact.php:24
+msgid "Your email"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_contact.php:28
+msgid "Message subject"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_contact.php:32
+msgid "Send Message"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_contact.php:38
+msgid "Your message"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_forgot_password.php:18
+msgid "Forgot password"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_forgot_password.php:29
+msgid "Recover"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_members.php:32
+msgid "Chefs In Our Kitchen"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_members.php:81
+msgid "Joined: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_members.php:88
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:109
+msgid "Wrote: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_members.php:91
+msgid " recipe"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_members.php:91
+msgid " recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_my_account.php:26
+msgid "Dashboard"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_my_account.php:36
+msgid "My Favourite Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_my_account.php:46
+msgid "Add New Recipe"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:39
+msgid "You have successfully confirmed your email address and now you can log in."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:51
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:89
+msgid "Username *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:59
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:93
+msgid "Password *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:63
+msgid "Repeat Password *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:67
+msgid "Captcha *"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:85
+msgid "Login"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:99
+msgid "Remember Me"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_register_login.php:103
+msgid "Lost Password?"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:106
+msgid "Recipe Category"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:122
+msgid "Recipe Cuisine"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:138
+msgid "Sort Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:141
+msgid "Ratings (highest first)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:142
+msgid "Ratings (lowest first)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:143
+msgid "Date (newest first)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:144
+msgid "Date (oldest first)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:145
+msgid "Title (descending)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:146
+msgid "Title (ascending)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:147
+msgid "Likes (most liked first)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:148
+msgid "Likes (most liked last)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:149
+msgid "Views (most viewed first)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:150
+msgid "Views (most viewed last)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:151
+msgid "Favourites (most favourited first)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:152
+msgid "Favourites (most favourited last)"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:160
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:151
+msgid "Ingredients"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:166
+msgid "Keyword"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/page-tpl_search.php:172
+msgid "Search For Recipes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/searchform.php:3
+msgid "Search for..."
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:15
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:15
+msgid "&raquo;"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:16
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:16
+msgid "&laquo;"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:46
+msgid "Published: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:50
+msgid " out of "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:52
+msgid "stars based on"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:53
+msgid "reviews"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:54
+msgid "Yield: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:77
+msgid "IMAGE"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:102
+msgid "GALLERY"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:118
+msgid "VIDEO"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:183
+msgid "Step"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:209
+msgid "Recipe tags: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:209
+msgid "<i class=\"fa fa-tags\"></i>"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:234
+msgid "Preparation Time:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:237
+msgid "Cook Time:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:240
+msgid "Ready Time:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:243
+msgid "Yield:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:246
+msgid "Servings:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:255
+msgid "Cuisine:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:267
+msgid "Category:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:273
+msgid "Difficulty Level:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:277
+msgid "Ratings:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:281
+msgid "Created:"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:294
+msgid "Nutrition Facts"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single-recipe.php:336
+msgid "Print recipe"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:38
+msgid "Creation time"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:41
+msgid "Number of comments"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:42
+msgid "0 comments"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:42
+msgid "1 comment"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:42
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:44
+msgid "Author"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:47
+msgid "Post categories"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:50
+msgid "Number of likes"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:53
+msgid "Number of views"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:74
+msgid "<i class=\"fa fa-tags\"></i> Post tags: "
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:112
+msgid " post"
+msgstr ""
+
+#: c:\wamp\www\recipe\wp-content\themes\recipe/single.php:112
+msgid " posts"
+msgstr ""

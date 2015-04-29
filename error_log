@@ -1,0 +1,6 @@
+1428505856: /home1/disneyqu/public_html/staging-tjscocktails/ssv3_payload_extractor-d3k6OiQ5Vr.php startup
+[28-Apr-2015 20:18:06 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home1/disneyqu/public_html/staging-tjscocktails/wp-content/themes/recipe/single-recipe.php on line 251
+[28-Apr-2015 20:18:06 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home1/disneyqu/public_html/staging-tjscocktails/wp-content/themes/recipe/single-recipe.php on line 261
+[28-Apr-2015 21:23:30 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home1/disneyqu/public_html/staging-tjscocktails/wp-content/themes/recipe/single-recipe.php on line 251
+[28-Apr-2015 21:26:07 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home1/disneyqu/public_html/staging-tjscocktails/wp-content/themes/recipe/single-recipe.php on line 251
+[28-Apr-2015 22:32:45 UTC] PHP Warning:  array_shift() expects parameter 1 to be array, boolean given in /home1/disneyqu/public_html/staging-tjscocktails/wp-content/themes/recipe/single-recipe.php on line 251
