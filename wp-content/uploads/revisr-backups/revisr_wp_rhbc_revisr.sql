@@ -18,12 +18,12 @@ CREATE TABLE `wp_rhbc_revisr` (
   `message` text,
   `event` varchar(42) NOT NULL,
   UNIQUE KEY `id` (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=6 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 LOCK TABLES `wp_rhbc_revisr` WRITE;
 /*!40000 ALTER TABLE `wp_rhbc_revisr` DISABLE KEYS */;
-INSERT INTO `wp_rhbc_revisr` VALUES (1,'2015-04-29 22:35:21','Successfully created a new repository.','init');
+INSERT INTO `wp_rhbc_revisr` VALUES (1,'2015-04-29 22:35:21','Successfully created a new repository.','init'),(2,'2015-04-29 22:38:06','Successfully backed up the database.','backup'),(3,'2015-04-29 22:38:34','Successfully pushed 1 commit to origin/.','push'),(4,'2015-04-29 22:38:34','Committed <a href=\"http://staging.tjscocktails.com/wp-admin/post.php?post=774&action=edit\">#1175f30</a> to the local repository.','commit'),(5,'2015-04-29 22:38:35','Successfully pushed 1 commit to origin/.','push');
 /*!40000 ALTER TABLE `wp_rhbc_revisr` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
