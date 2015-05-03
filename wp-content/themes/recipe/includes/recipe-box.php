@@ -1,10 +1,12 @@
 <div class="recipe-box white-block">
 	<div class="blog-media">
-		<?php
-		$image_size = 'box-thumb';
-		include( locate_template( 'media/media.php' ) );
-		$post_id = get_the_ID();
-		?>
+		<a href="<?php the_permalink() ?>">
+			<?php
+			$image_size = 'box-thumb';
+			include( locate_template( 'media/media.php' ) );
+			$post_id = get_the_ID();
+			?>
+		</a>
 		<div class="ratings">
 			<?php echo recipe_calculate_ratings(); ?>
 		</div>

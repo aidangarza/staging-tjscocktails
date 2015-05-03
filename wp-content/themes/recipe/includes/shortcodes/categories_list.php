@@ -5,6 +5,7 @@ function recipe_categories_func( $atts, $content ){
 		'title' => '',
 		'small_title' => '',
 		'categories' => '',
+		'class' => '',
 	), $atts ) );
 	$permalink = recipe_get_permalink_by_tpl( 'page-tpl_search' );
 	if( !empty( $categories ) ){
@@ -17,7 +18,7 @@ function recipe_categories_func( $atts, $content ){
 
 	ob_start();
 	?>
-	<section>
+	<section class="<?php echo $class; ?>">
 		<div class="container">
 			<div class="section-title clearfix">
 				<h3 class="pull-left">
@@ -26,9 +27,24 @@ function recipe_categories_func( $atts, $content ){
 					<?php endif; ?>
 					<?php echo $title; ?>
 				</h3>
-				<a href="<?php echo esc_url( $permalink ) ?>" class="btn pull-right"><?php echo $small_title ?></a>
+				<a href="<?php echo esc_url( $permalink ) ?>" class="btn pull-right hidden-xs"><?php echo $small_title ?></a>
+				<div class="hidden-sm hidden-md hidden-lg">
+					<form method="get" action="<?php echo $permalink ?>">
+						<select name="recipe-category" id="recipe-category" class="form-control" style="background-color: white;">
+							<option value="">All Categories</option>
+						<?php
+						foreach( $categories as $category ){
+							$term_meta = get_option( "taxonomy_".$category->term_id );
+							$value = !empty( $term_meta['category_icon'] ) ? $term_meta['category_icon'] : '';						
+							echo '<option value="'.$category->slug.'">'.$category->name.'</option>';
+						}
+						?>
+						</select>
+						<a href="javascript:;" class="btn submit-live-form">Search this Category</a>
+					</form>
+				</div>
 			</div>			
-			<div class="row category-list">
+			<div class="row category-list hidden-xs">
 				<?php
 				foreach( $categories as $category ){
 					$term_meta = get_option( "taxonomy_".$category->term_id );
