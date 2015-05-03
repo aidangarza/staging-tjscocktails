@@ -18,12 +18,12 @@ CREATE TABLE `wp_rhbc_revisr` (
   `message` text,
   `event` varchar(42) NOT NULL,
   UNIQUE KEY `id` (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=11 DEFAULT CHARSET=latin1;
+) ENGINE=MyISAM AUTO_INCREMENT=16 DEFAULT CHARSET=latin1;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 LOCK TABLES `wp_rhbc_revisr` WRITE;
 /*!40000 ALTER TABLE `wp_rhbc_revisr` DISABLE KEYS */;
-INSERT INTO `wp_rhbc_revisr` VALUES (1,'2015-04-29 22:35:21','Successfully created a new repository.','init'),(2,'2015-04-29 22:38:06','Successfully backed up the database.','backup'),(3,'2015-04-29 22:38:34','Successfully pushed 1 commit to origin/.','push'),(4,'2015-04-29 22:38:34','Committed <a href=\"http://staging.tjscocktails.com/wp-admin/post.php?post=774&action=edit\">#1175f30</a> to the local repository.','commit'),(5,'2015-04-29 22:38:35','Successfully pushed 1 commit to origin/.','push'),(6,'2015-04-29 22:40:24','Successfully backed up the database.','backup'),(7,'2015-04-29 22:40:26','Successfully pushed 1 commit to origin/master.','push'),(8,'2015-04-29 22:40:26','The weekly backup was successful.','backup'),(9,'2015-04-30 23:59:51','Committed <a href=\"http://staging.tjscocktails.com/wp-admin/post.php?post=826&action=edit\">#2ed8912</a> to the local repository.','commit'),(10,'2015-05-01 00:00:10','Successfully pushed 1 commit to origin/master.','push');
+INSERT INTO `wp_rhbc_revisr` VALUES (1,'2015-04-29 22:35:21','Successfully created a new repository.','init'),(2,'2015-04-29 22:38:06','Successfully backed up the database.','backup'),(3,'2015-04-29 22:38:34','Successfully pushed 1 commit to origin/.','push'),(4,'2015-04-29 22:38:34','Committed <a href=\"http://staging.tjscocktails.com/wp-admin/post.php?post=774&action=edit\">#1175f30</a> to the local repository.','commit'),(5,'2015-04-29 22:38:35','Successfully pushed 1 commit to origin/.','push'),(6,'2015-04-29 22:40:24','Successfully backed up the database.','backup'),(7,'2015-04-29 22:40:26','Successfully pushed 1 commit to origin/master.','push'),(8,'2015-04-29 22:40:26','The weekly backup was successful.','backup'),(9,'2015-04-30 23:59:51','Committed <a href=\"http://staging.tjscocktails.com/wp-admin/post.php?post=826&action=edit\">#2ed8912</a> to the local repository.','commit'),(10,'2015-05-01 00:00:10','Successfully pushed 1 commit to origin/master.','push'),(11,'2015-05-01 03:32:30','Successfully backed up the database.','backup'),(12,'2015-05-01 03:32:41','Successfully pushed 2 commits to origin/master.','push'),(13,'2015-05-01 03:32:41','Committed <a href=\"http://tjscocktails.com/wp-admin/post.php?post=828&action=edit\">#53e9295</a> to the local repository.','commit'),(14,'2015-05-01 03:32:42','Successfully pushed 0 commits to origin/master.','push'),(15,'2015-05-01 03:34:38','Successfully pushed 0 commits to origin/master.','push');
 /*!40000 ALTER TABLE `wp_rhbc_revisr` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;

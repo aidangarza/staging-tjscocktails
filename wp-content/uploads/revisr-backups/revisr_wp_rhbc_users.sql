@@ -26,12 +26,12 @@ CREATE TABLE `wp_rhbc_users` (
   PRIMARY KEY (`ID`),
   KEY `user_login_key` (`user_login`),
   KEY `user_nicename` (`user_nicename`)
-) ENGINE=MyISAM AUTO_INCREMENT=2 DEFAULT CHARSET=utf8;
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 LOCK TABLES `wp_rhbc_users` WRITE;
 /*!40000 ALTER TABLE `wp_rhbc_users` DISABLE KEYS */;
-INSERT INTO `wp_rhbc_users` VALUES (1,'aidangarza@gmail.com','$P$BUG6sEihq9DUIQp/ypHAffGFKm0YgX0','aidangarzagmail-com','aidangarza@gmail.com','http://aidangarza.com','2015-04-08 15:11:03','',0,'Aidan');
+INSERT INTO `wp_rhbc_users` VALUES (1,'aidangarza@gmail.com','$P$BUG6sEihq9DUIQp/ypHAffGFKm0YgX0','aidangarzagmail-com','aidangarza@gmail.com','http://aidangarza.com','2015-04-08 15:11:03','',0,'Aidan'),(2,'dcolnar','$P$BSQiEQmlr3Zjkc0xHM.Ci8grezf6CX0','dcolnar','derek.colnar@gmail.com','','2015-05-01 17:55:36','',0,'dcolnar'),(3,'galenrutledge','$P$BU4Cf9P3O4aruNyWKjHD5hTD56D4rh.','galenrutledge','galen.rutledge@malauzai.com','','2015-05-01 18:08:40','',0,'galenrutledge'),(4,'Killer_Tofu','$P$BUfS4YPsMd6TqFgY5ljdyNJ7KZJwOI.','killer_tofu','krblanc86@gmail.com','','2015-05-02 21:42:20','',0,'Killer_Tofu');
 /*!40000 ALTER TABLE `wp_rhbc_users` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
