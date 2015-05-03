@@ -1667,11 +1667,11 @@ function recipe_rating_display( $percentage, $average, $title = 'average' ){
 	$ratings = '';
 	$ratings .= '<span class="bottom-ratings tip" data-title="'.esc_attr( $title ).'">';
 		for( $i=1; $i<=5; $i++ ){
-			$ratings .= '<span class="icon icon_rate"></span>';
+			$ratings .= '<i class="fa fa-glass"></i>';
 		}
 		$ratings .= '<span class="top-ratings" style="width: '.esc_attr( $percentage ).'%">';
 		for( $i=1; $i<=5; $i++ ){
-			$ratings .= '<span class="icon icon_rate"></span>';
+			$ratings .= '<i class="fa fa-glass"></i>';
 		}
 		$ratings .= '</span>';		
 	$ratings .= '</span>';	

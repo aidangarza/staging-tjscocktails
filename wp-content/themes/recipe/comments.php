@@ -85,11 +85,11 @@
 			    		<label>'.__( 'Add Review', 'recipe' ).'</label>
 			    		<input type="hidden" id="review" name="review" value=""/>
 			    		<span class="bottom-ratings">
-			    			<span class="icon icon_rate"></span>
-			    			<span class="icon icon_rate"></span>
-			    			<span class="icon icon_rate"></span>
-			    			<span class="icon icon_rate"></span>
-			    			<span class="icon icon_rate"></span>
+			    			<i class="fa fa-glass"></i>
+			    			<i class="fa fa-glass"></i>
+			    			<i class="fa fa-glass"></i>
+			    			<i class="fa fa-glass"></i>
+			    			<i class="fa fa-glass"></i>
 			    		</span>
 			    	</p>';
 				}
